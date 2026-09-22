@@ -1,0 +1,15 @@
+C:\Users\putev\Documents\Lab02-Putevskoi\bin\Debug\net10.0\Lab02-Putevskoi.exe
+C:\Users\putev\Documents\Lab02-Putevskoi\bin\Debug\net10.0\Lab02-Putevskoi.deps.json
+C:\Users\putev\Documents\Lab02-Putevskoi\bin\Debug\net10.0\Lab02-Putevskoi.runtimeconfig.json
+C:\Users\putev\Documents\Lab02-Putevskoi\bin\Debug\net10.0\Lab02-Putevskoi.dll
+C:\Users\putev\Documents\Lab02-Putevskoi\bin\Debug\net10.0\Lab02-Putevskoi.pdb
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\Lab02-Putevskoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\Lab02-Putevskoi.AssemblyInfoInputs.cache
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\Lab02-Putevskoi.AssemblyInfo.cs
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\Lab02-Putevskoi.csproj.CoreCompileInputs.cache
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\Lab02-Putevskoi.sourcelink.json
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\Lab02-Putevskoi.dll
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\refint\Lab02-Putevskoi.dll
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\Lab02-Putevskoi.pdb
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\Lab02-Putevskoi.genruntimeconfig.cache
+C:\Users\putev\Documents\Lab02-Putevskoi\obj\Debug\net10.0\ref\Lab02-Putevskoi.dll
